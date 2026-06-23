@@ -1,0 +1,5 @@
+landslide_dashboard - contains all the pkl, csv and app.py files for streamlit dashboard
+himalayan_landslides.csv - cleaned and structured data of landslides in the Himalayan regions of India and Nepal
+landslides_data.csv - raw unstructured data we scraped from NASA COOLR website
+Web-Scraping.ipynb - notebook used for scarping data
+Model-Building.ipynb - notebook used for Cleaning, EDA, Model-Building, etc
